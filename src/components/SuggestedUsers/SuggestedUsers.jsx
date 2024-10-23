@@ -30,8 +30,8 @@ const SuggestedUsers = () => {
 
             <Box fontSize={12} color={"gray.500"} mt={5} alignSelf={"start"}>
                 © 2024 Built by{" "}
-                <Link href='https://github.com/joeyovey/' target='_blank' color='blue.500' fontSize={14}>
-                    David Yongo
+                <Link href='https://github.com/Idristairu168' target='_blank' color='blue.500' fontSize={14}>
+                    Idris Tairu
                 </Link>
             </Box>
         </VStack>
